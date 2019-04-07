@@ -1,0 +1,19 @@
+{
+  "AboutPage_title": "About page",
+  "HomePage_title": "Welcome to Code Core's fundamentals",
+  "HomePage_disclaimer": "<0>This application has been designed just to keep track of your attendance along with a few \"material understanding checks\" (MUC). These MUCs are designed to give us an idea of how well the material is sinking in. Don't worry too much about it, we just want to make sure that we will clarify the material prepared and given by code core.</0><1>In order to keep you signed in to this app, we are storing a session id in your cookie that does not have any sensitive information about you. This id will be in your browser for a maximum of 2 days.</1><2>Furthermore, we are only storing your email and a one way encryption of whatever password you choose to use with your account. We are willing to comply with GDPR regulations, so one of the following in case you want to either find out the data this applications is storing about you. You can alternatively ask for use to remove all the information this application stores. In any case, please contact use:</2><3><0><0>Jesus Rodriguez</0></0><1><0>Ramneek Singh Kumar</0></1><2><0>Ian McKinnon</0></2></3>",
+  "Menu_signOut": "Sign Out",
+  "Menu_signIn": "Sign In",
+  "Menu_signUp": "Sign Up",
+  "Menu_home": "Home",
+  "SignUp_emailLabel": "E-Mail",
+  "SignUp_passwordLabel": "Password",
+  "SignInPage_title": "Sign in page",
+  "SignIn_submitForm": "Sign In",
+  "SignUp_confirmPasswordLabel": "Confirm your password",
+  "SignUp_signUpPage": "Sign up page",
+  "SignUp_submitButton": "Sign Up",
+  "AttendancePage_title": "<0>You are now enrolled for the fundamentals!</0>",
+  "SignUp_firstName": "First Name",
+  "SignUp_lastName": "Last Name"
+}
