@@ -22,6 +22,7 @@
     "url": "https://github.com/opposite-bracket/ravelo-apps.com/issues"
   },
   "engines": {
+    "node": "10.13.0",
     "npm": "6.x"
   },
   "homepage": "https://github.com/opposite-bracket/ravelo-apps.com#readme",
