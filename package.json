@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Monolithic application",
   "main": "server.js",
+  "build": "webpack",
   "scripts": {
     "start": "node sever.js",
     "heroku-postbuild": "cd client && npm && npm run build",
@@ -19,6 +20,9 @@
   "private": true,
   "bugs": {
     "url": "https://github.com/opposite-bracket/ravelo-apps.com/issues"
+  },
+  "engines": {
+    "npm": "6.x"
   },
   "homepage": "https://github.com/opposite-bracket/ravelo-apps.com#readme",
   "dependencies": {
