@@ -17,7 +17,8 @@ const VALID_OPTIONS = [
   'JWT_SECURITY_KEY',
   'JWT_TOKEN_SALT_ROUNDS',
   'TEST_URL',
-  'MONGO_URL'
+  'MONGO_URI',
+  'MONGO_DB_NAME'
 ];
 
 const getConfigOptions = (option) => {

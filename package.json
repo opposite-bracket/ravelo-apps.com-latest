@@ -4,6 +4,8 @@
   "description": "Monolithic application",
   "main": "server.js",
   "scripts": {
+    "start": "node sever.js",
+    "heroku-postbuild": "cd client && npm && npm run build",
     "local": "NODE_ENV=local nodemon server.js",
     "test:test": "NODE_ENV=test mocha ./tests --recursive",
     "tdd": "NODE_ENV=test nodemon --exec \"mocha ./tests --recursive\""
